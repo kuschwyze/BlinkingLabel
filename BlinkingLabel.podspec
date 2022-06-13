@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'BlinkingLabel'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of BlinkingLabel.'
+  s.summary          = 'testing pod creation.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -32,6 +32,7 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'BlinkingLabel/Classes/**/*'
   
+  s.swift_versions = '4.0'
   # s.resource_bundles = {
   #   'BlinkingLabel' => ['BlinkingLabel/Assets/*.png']
   # }
