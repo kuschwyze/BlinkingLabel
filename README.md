@@ -27,4 +27,3 @@ kuschwyze, xqin@wyze.com
 ## License
 
 BlinkingLabel is available under the MIT license. See the LICENSE file for more info.
-![EventUpsellCPtCardImage](https://user-images.githubusercontent.com/106107821/221711985-586924fa-0893-4e06-b729-ba1b0cd67bb7.png)
